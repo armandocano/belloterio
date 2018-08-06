@@ -1,0 +1,23 @@
+{
+  "name": "belloterio",
+  "version": "1.0.0",
+  "description": "Maniak Front-end challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandocano/belloterio.git"
+  },
+  "author": "armando cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandocano/belloterio/issues"
+  },
+  "homepage": "https://github.com/armandocano/belloterio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.2"
+  }
+}
